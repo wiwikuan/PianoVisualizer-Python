@@ -1,6 +1,6 @@
 ```
 pip install --break-system-packages pygame mido python-rtmidi
-python3 midi_piano_viz.py
+python3 piano-visualizer.py
 ```
 
 就這樣！
