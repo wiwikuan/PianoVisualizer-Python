@@ -7,7 +7,7 @@ Dependencies:
     pip install pygame mido python-rtmidi
 
 Run:
-    python midi_piano_viz.py
+    python piano-visualizer.py
 """
 
 import sys
